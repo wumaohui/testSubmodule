@@ -1,0 +1,3 @@
+[submodule "childModule"]
+	path = childModule
+	url = /Users/wumaohui/company/work/childModule/.git
